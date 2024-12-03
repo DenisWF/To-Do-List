@@ -432,7 +432,8 @@ logging.basicConfig(
     filename="app.log",
     filemode="a"
 )
-print('
+print(')')
+print('(')
 if __name__ == '__main__':
     notifier = TaskNotifier()
     notifier.start_notification_loop()
