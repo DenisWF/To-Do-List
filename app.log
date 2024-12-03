@@ -1,0 +1,323 @@
+
+2024-12-03 23:45:46,726 - DEBUG - toplevel widget is CalendarWindow
+2024-12-03 23:45:46,741 - DEBUG - setting property geometry
+2024-12-03 23:45:46,741 - DEBUG - setting property windowTitle
+2024-12-03 23:45:46,742 - DEBUG - push CalendarWindow MainWindow
+2024-12-03 23:45:46,742 - DEBUG - push QWidget centralwidget
+2024-12-03 23:45:46,742 - DEBUG - setting property pyuicMargins
+2024-12-03 23:45:46,743 - DEBUG - push QGridLayout gridLayout
+2024-12-03 23:45:49,054 - DEBUG - setting property enabled
+2024-12-03 23:45:49,054 - DEBUG - setting property maximumSize
+2024-12-03 23:45:49,055 - DEBUG - setting property font
+2024-12-03 23:45:49,092 - DEBUG - setting property styleSheet
+2024-12-03 23:45:49,094 - DEBUG - push QCalendarWidget calendarWidget
+2024-12-03 23:45:49,094 - DEBUG - pop widget QCalendarWidget calendarWidget
+2024-12-03 23:45:49,094 - DEBUG - new topwidget <PyQt6.QtWidgets.QWidget object at 0x00000232234B2950>
+2024-12-03 23:45:49,095 - DEBUG - pop layout QGridLayout gridLayout
+2024-12-03 23:45:49,095 - DEBUG - pop widget QWidget centralwidget
+2024-12-03 23:45:49,095 - DEBUG - new topwidget <__main__.CalendarWindow object at 0x00000232234B2830>
+2024-12-03 23:45:49,095 - DEBUG - setting property text
+2024-12-03 23:45:49,095 - DEBUG - setting property text
+2024-12-03 23:45:49,095 - DEBUG - setting property text
+2024-12-03 23:45:49,096 - DEBUG - setting property text
+2024-12-03 23:45:49,096 - DEBUG - pop widget CalendarWindow MainWindow
+2024-12-03 23:45:49,096 - DEBUG - new topwidget None
+2024-12-03 23:45:53,059 - DEBUG - toplevel widget is TasksWindow
+2024-12-03 23:45:53,059 - DEBUG - setting property geometry
+2024-12-03 23:45:53,059 - DEBUG - setting property windowTitle
+2024-12-03 23:45:53,059 - DEBUG - push TasksWindow Form
+2024-12-03 23:45:53,059 - DEBUG - setting property geometry
+2024-12-03 23:45:53,059 - DEBUG - setting property text
+2024-12-03 23:45:53,060 - DEBUG - push QPushButton add_task
+2024-12-03 23:45:53,060 - DEBUG - pop widget QPushButton add_task
+2024-12-03 23:45:53,060 - DEBUG - new topwidget <__main__.TasksWindow object at 0x00000232234B2E60>
+2024-12-03 23:45:53,060 - DEBUG - setting property geometry
+2024-12-03 23:45:53,060 - DEBUG - setting property text
+2024-12-03 23:45:53,060 - DEBUG - push QPushButton complete_tasks_button
+2024-12-03 23:45:53,060 - DEBUG - pop widget QPushButton complete_tasks_button
+2024-12-03 23:45:53,060 - DEBUG - new topwidget <__main__.TasksWindow object at 0x00000232234B2E60>
+2024-12-03 23:45:53,060 - DEBUG - setting property geometry
+2024-12-03 23:45:53,061 - DEBUG - setting property text
+2024-12-03 23:45:53,061 - DEBUG - push QPushButton done_task
+2024-12-03 23:45:53,061 - DEBUG - pop widget QPushButton done_task
+2024-12-03 23:45:53,061 - DEBUG - new topwidget <__main__.TasksWindow object at 0x00000232234B2E60>
+2024-12-03 23:45:53,061 - DEBUG - setting property geometry
+2024-12-03 23:45:53,061 - DEBUG - setting property text
+2024-12-03 23:45:53,061 - DEBUG - push QPushButton delete_task
+2024-12-03 23:45:53,061 - DEBUG - pop widget QPushButton delete_task
+2024-12-03 23:45:53,061 - DEBUG - new topwidget <__main__.TasksWindow object at 0x00000232234B2E60>
+2024-12-03 23:45:53,065 - DEBUG - setting property geometry
+2024-12-03 23:45:53,065 - DEBUG - push QListWidget taskListWidget
+2024-12-03 23:45:53,065 - DEBUG - pop widget QListWidget taskListWidget
+2024-12-03 23:45:53,065 - DEBUG - new topwidget <__main__.TasksWindow object at 0x00000232234B2E60>
+2024-12-03 23:45:53,065 - DEBUG - setting property geometry
+2024-12-03 23:45:53,065 - DEBUG - setting property text
+2024-12-03 23:45:53,065 - DEBUG - push QPushButton redact_tasks
+2024-12-03 23:45:53,066 - DEBUG - pop widget QPushButton redact_tasks
+2024-12-03 23:45:53,066 - DEBUG - new topwidget <__main__.TasksWindow object at 0x00000232234B2E60>
+2024-12-03 23:45:53,066 - DEBUG - pop widget TasksWindow Form
+2024-12-03 23:45:53,066 - DEBUG - new topwidget None
+2024-12-03 23:45:54,317 - DEBUG - toplevel widget is Add_tasks
+2024-12-03 23:45:54,317 - DEBUG - setting property geometry
+2024-12-03 23:45:54,318 - DEBUG - setting property windowTitle
+2024-12-03 23:45:54,318 - DEBUG - push Add_tasks Form
+2024-12-03 23:45:54,318 - DEBUG - setting property geometry
+2024-12-03 23:45:54,318 - DEBUG - setting property text
+2024-12-03 23:45:54,318 - DEBUG - push QPushButton apply_task_button
+2024-12-03 23:45:54,318 - DEBUG - pop widget QPushButton apply_task_button
+2024-12-03 23:45:54,318 - DEBUG - new topwidget <__main__.Add_tasks object at 0x00000232234B2F80>
+2024-12-03 23:45:54,318 - DEBUG - setting property geometry
+2024-12-03 23:45:54,318 - DEBUG - push QLineEdit task_title_input
+2024-12-03 23:45:54,319 - DEBUG - pop widget QLineEdit task_title_input
+2024-12-03 23:45:54,319 - DEBUG - new topwidget <__main__.Add_tasks object at 0x00000232234B2F80>
+2024-12-03 23:45:54,319 - DEBUG - setting property geometry
+2024-12-03 23:45:54,319 - DEBUG - setting property text
+2024-12-03 23:45:54,319 - DEBUG - push QLabel name
+2024-12-03 23:45:54,319 - DEBUG - pop widget QLabel name
+2024-12-03 23:45:54,319 - DEBUG - new topwidget <__main__.Add_tasks object at 0x00000232234B2F80>
+2024-12-03 23:45:54,319 - DEBUG - setting property geometry
+2024-12-03 23:45:54,319 - DEBUG - setting property text
+2024-12-03 23:45:54,319 - DEBUG - push QLabel difficulty
+2024-12-03 23:45:54,319 - DEBUG - pop widget QLabel difficulty
+2024-12-03 23:45:54,319 - DEBUG - new topwidget <__main__.Add_tasks object at 0x00000232234B2F80>
+2024-12-03 23:45:54,319 - DEBUG - setting property geometry
+2024-12-03 23:45:54,319 - DEBUG - setting property text
+2024-12-03 23:45:54,319 - DEBUG - push QLabel category
+2024-12-03 23:45:54,319 - DEBUG - pop widget QLabel category
+2024-12-03 23:45:54,319 - DEBUG - new topwidget <__main__.Add_tasks object at 0x00000232234B2F80>
+2024-12-03 23:45:54,319 - DEBUG - setting property geometry
+2024-12-03 23:45:54,319 - DEBUG - setting property text
+2024-12-03 23:45:54,319 - DEBUG - push QLabel complete
+2024-12-03 23:45:54,319 - DEBUG - pop widget QLabel complete
+2024-12-03 23:45:54,319 - DEBUG - new topwidget <__main__.Add_tasks object at 0x00000232234B2F80>
+2024-12-03 23:45:54,319 - DEBUG - setting property geometry
+2024-12-03 23:45:54,319 - DEBUG - push QLineEdit category_input
+2024-12-03 23:45:54,320 - DEBUG - pop widget QLineEdit category_input
+2024-12-03 23:45:54,320 - DEBUG - new topwidget <__main__.Add_tasks object at 0x00000232234B2F80>
+2024-12-03 23:45:54,320 - DEBUG - setting property geometry
+2024-12-03 23:45:54,320 - DEBUG - setting property styleSheet
+2024-12-03 23:45:54,320 - DEBUG - setting property text
+2024-12-03 23:45:54,320 - DEBUG - push QLabel priority_circle
+2024-12-03 23:45:54,320 - DEBUG - pop widget QLabel priority_circle
+2024-12-03 23:45:54,320 - DEBUG - new topwidget <__main__.Add_tasks object at 0x00000232234B2F80>
+2024-12-03 23:45:54,321 - DEBUG - setting property geometry
+2024-12-03 23:45:54,321 - DEBUG - push QTimeEdit time_input
+2024-12-03 23:45:54,321 - DEBUG - pop widget QTimeEdit time_input
+2024-12-03 23:45:54,321 - DEBUG - new topwidget <__main__.Add_tasks object at 0x00000232234B2F80>
+2024-12-03 23:45:54,321 - DEBUG - setting property geometry
+2024-12-03 23:45:54,321 - DEBUG - setting property text
+2024-12-03 23:45:54,321 - DEBUG - push QLabel label
+2024-12-03 23:45:54,322 - DEBUG - pop widget QLabel label
+2024-12-03 23:45:54,322 - DEBUG - new topwidget <__main__.Add_tasks object at 0x00000232234B2F80>
+2024-12-03 23:45:54,322 - DEBUG - setting property geometry
+2024-12-03 23:45:54,322 - DEBUG - push QComboBox completed_input
+2024-12-03 23:45:54,323 - DEBUG - pop widget QComboBox completed_input
+2024-12-03 23:45:54,323 - DEBUG - new topwidget <__main__.Add_tasks object at 0x00000232234B2F80>
+2024-12-03 23:45:54,323 - DEBUG - setting property geometry
+2024-12-03 23:45:54,323 - DEBUG - push QComboBox prir
+2024-12-03 23:45:54,323 - DEBUG - pop widget QComboBox prir
+2024-12-03 23:45:54,323 - DEBUG - new topwidget <__main__.Add_tasks object at 0x00000232234B2F80>
+2024-12-03 23:45:54,323 - DEBUG - pop widget Add_tasks Form
+2024-12-03 23:45:54,323 - DEBUG - new topwidget None
+2024-12-03 23:46:19,933 - DEBUG - toplevel widget is TasksWindow
+2024-12-03 23:46:19,933 - DEBUG - setting property geometry
+2024-12-03 23:46:19,933 - DEBUG - setting property windowTitle
+2024-12-03 23:46:19,933 - DEBUG - push TasksWindow Form
+2024-12-03 23:46:19,933 - DEBUG - setting property geometry
+2024-12-03 23:46:19,933 - DEBUG - setting property text
+2024-12-03 23:46:19,933 - DEBUG - push QPushButton add_task
+2024-12-03 23:46:19,933 - DEBUG - pop widget QPushButton add_task
+2024-12-03 23:46:19,933 - DEBUG - new topwidget <__main__.TasksWindow object at 0x00000232234B32E0>
+2024-12-03 23:46:19,933 - DEBUG - setting property geometry
+2024-12-03 23:46:19,934 - DEBUG - setting property text
+2024-12-03 23:46:19,934 - DEBUG - push QPushButton complete_tasks_button
+2024-12-03 23:46:19,934 - DEBUG - pop widget QPushButton complete_tasks_button
+2024-12-03 23:46:19,934 - DEBUG - new topwidget <__main__.TasksWindow object at 0x00000232234B32E0>
+2024-12-03 23:46:19,934 - DEBUG - setting property geometry
+2024-12-03 23:46:19,934 - DEBUG - setting property text
+2024-12-03 23:46:19,934 - DEBUG - push QPushButton done_task
+2024-12-03 23:46:19,934 - DEBUG - pop widget QPushButton done_task
+2024-12-03 23:46:19,934 - DEBUG - new topwidget <__main__.TasksWindow object at 0x00000232234B32E0>
+2024-12-03 23:46:19,934 - DEBUG - setting property geometry
+2024-12-03 23:46:19,934 - DEBUG - setting property text
+2024-12-03 23:46:19,934 - DEBUG - push QPushButton delete_task
+2024-12-03 23:46:19,934 - DEBUG - pop widget QPushButton delete_task
+2024-12-03 23:46:19,934 - DEBUG - new topwidget <__main__.TasksWindow object at 0x00000232234B32E0>
+2024-12-03 23:46:19,934 - DEBUG - setting property geometry
+2024-12-03 23:46:19,935 - DEBUG - push QListWidget taskListWidget
+2024-12-03 23:46:19,935 - DEBUG - pop widget QListWidget taskListWidget
+2024-12-03 23:46:19,935 - DEBUG - new topwidget <__main__.TasksWindow object at 0x00000232234B32E0>
+2024-12-03 23:46:19,935 - DEBUG - setting property geometry
+2024-12-03 23:46:19,935 - DEBUG - setting property text
+2024-12-03 23:46:19,935 - DEBUG - push QPushButton redact_tasks
+2024-12-03 23:46:19,935 - DEBUG - pop widget QPushButton redact_tasks
+2024-12-03 23:46:19,935 - DEBUG - new topwidget <__main__.TasksWindow object at 0x00000232234B32E0>
+2024-12-03 23:46:19,935 - DEBUG - pop widget TasksWindow Form
+2024-12-03 23:46:19,935 - DEBUG - new topwidget None
+2024-12-03 23:46:23,253 - DEBUG - toplevel widget is TasksWindow
+2024-12-03 23:46:23,253 - DEBUG - setting property geometry
+2024-12-03 23:46:23,253 - DEBUG - setting property windowTitle
+2024-12-03 23:46:23,253 - DEBUG - push TasksWindow Form
+2024-12-03 23:46:23,253 - DEBUG - setting property geometry
+2024-12-03 23:46:23,253 - DEBUG - setting property text
+2024-12-03 23:46:23,253 - DEBUG - push QPushButton add_task
+2024-12-03 23:46:23,253 - DEBUG - pop widget QPushButton add_task
+2024-12-03 23:46:23,253 - DEBUG - new topwidget <__main__.TasksWindow object at 0x0000023223DAC1F0>
+2024-12-03 23:46:23,253 - DEBUG - setting property geometry
+2024-12-03 23:46:23,254 - DEBUG - setting property text
+2024-12-03 23:46:23,254 - DEBUG - push QPushButton complete_tasks_button
+2024-12-03 23:46:23,254 - DEBUG - pop widget QPushButton complete_tasks_button
+2024-12-03 23:46:23,254 - DEBUG - new topwidget <__main__.TasksWindow object at 0x0000023223DAC1F0>
+2024-12-03 23:46:23,254 - DEBUG - setting property geometry
+2024-12-03 23:46:23,254 - DEBUG - setting property text
+2024-12-03 23:46:23,254 - DEBUG - push QPushButton done_task
+2024-12-03 23:46:23,254 - DEBUG - pop widget QPushButton done_task
+2024-12-03 23:46:23,254 - DEBUG - new topwidget <__main__.TasksWindow object at 0x0000023223DAC1F0>
+2024-12-03 23:46:23,254 - DEBUG - setting property geometry
+2024-12-03 23:46:23,254 - DEBUG - setting property text
+2024-12-03 23:46:23,254 - DEBUG - push QPushButton delete_task
+2024-12-03 23:46:23,254 - DEBUG - pop widget QPushButton delete_task
+2024-12-03 23:46:23,254 - DEBUG - new topwidget <__main__.TasksWindow object at 0x0000023223DAC1F0>
+2024-12-03 23:46:23,255 - DEBUG - setting property geometry
+2024-12-03 23:46:23,255 - DEBUG - push QListWidget taskListWidget
+2024-12-03 23:46:23,255 - DEBUG - pop widget QListWidget taskListWidget
+2024-12-03 23:46:23,255 - DEBUG - new topwidget <__main__.TasksWindow object at 0x0000023223DAC1F0>
+2024-12-03 23:46:23,255 - DEBUG - setting property geometry
+2024-12-03 23:46:23,255 - DEBUG - setting property text
+2024-12-03 23:46:23,255 - DEBUG - push QPushButton redact_tasks
+2024-12-03 23:46:23,255 - DEBUG - pop widget QPushButton redact_tasks
+2024-12-03 23:46:23,255 - DEBUG - new topwidget <__main__.TasksWindow object at 0x0000023223DAC1F0>
+2024-12-03 23:46:23,255 - DEBUG - pop widget TasksWindow Form
+2024-12-03 23:46:23,255 - DEBUG - new topwidget None
+2024-12-03 23:46:24,000 - DEBUG - toplevel widget is Add_tasks
+2024-12-03 23:46:24,000 - DEBUG - setting property geometry
+2024-12-03 23:46:24,000 - DEBUG - setting property windowTitle
+2024-12-03 23:46:24,000 - DEBUG - push Add_tasks Form
+2024-12-03 23:46:24,000 - DEBUG - setting property geometry
+2024-12-03 23:46:24,000 - DEBUG - setting property text
+2024-12-03 23:46:24,000 - DEBUG - push QPushButton apply_task_button
+2024-12-03 23:46:24,000 - DEBUG - pop widget QPushButton apply_task_button
+2024-12-03 23:46:24,000 - DEBUG - new topwidget <__main__.Add_tasks object at 0x0000023223DAC670>
+2024-12-03 23:46:24,000 - DEBUG - setting property geometry
+2024-12-03 23:46:24,000 - DEBUG - push QLineEdit task_title_input
+2024-12-03 23:46:24,000 - DEBUG - pop widget QLineEdit task_title_input
+2024-12-03 23:46:24,000 - DEBUG - new topwidget <__main__.Add_tasks object at 0x0000023223DAC670>
+2024-12-03 23:46:24,000 - DEBUG - setting property geometry
+2024-12-03 23:46:24,000 - DEBUG - setting property text
+2024-12-03 23:46:24,001 - DEBUG - push QLabel name
+2024-12-03 23:46:24,001 - DEBUG - pop widget QLabel name
+2024-12-03 23:46:24,001 - DEBUG - new topwidget <__main__.Add_tasks object at 0x0000023223DAC670>
+2024-12-03 23:46:24,001 - DEBUG - setting property geometry
+2024-12-03 23:46:24,001 - DEBUG - setting property text
+2024-12-03 23:46:24,001 - DEBUG - push QLabel difficulty
+2024-12-03 23:46:24,001 - DEBUG - pop widget QLabel difficulty
+2024-12-03 23:46:24,001 - DEBUG - new topwidget <__main__.Add_tasks object at 0x0000023223DAC670>
+2024-12-03 23:46:24,001 - DEBUG - setting property geometry
+2024-12-03 23:46:24,001 - DEBUG - setting property text
+2024-12-03 23:46:24,001 - DEBUG - push QLabel category
+2024-12-03 23:46:24,001 - DEBUG - pop widget QLabel category
+2024-12-03 23:46:24,001 - DEBUG - new topwidget <__main__.Add_tasks object at 0x0000023223DAC670>
+2024-12-03 23:46:24,001 - DEBUG - setting property geometry
+2024-12-03 23:46:24,002 - DEBUG - setting property text
+2024-12-03 23:46:24,002 - DEBUG - push QLabel complete
+2024-12-03 23:46:24,002 - DEBUG - pop widget QLabel complete
+2024-12-03 23:46:24,002 - DEBUG - new topwidget <__main__.Add_tasks object at 0x0000023223DAC670>
+2024-12-03 23:46:24,002 - DEBUG - setting property geometry
+2024-12-03 23:46:24,002 - DEBUG - push QLineEdit category_input
+2024-12-03 23:46:24,002 - DEBUG - pop widget QLineEdit category_input
+2024-12-03 23:46:24,002 - DEBUG - new topwidget <__main__.Add_tasks object at 0x0000023223DAC670>
+2024-12-03 23:46:24,002 - DEBUG - setting property geometry
+2024-12-03 23:46:24,002 - DEBUG - setting property styleSheet
+2024-12-03 23:46:24,002 - DEBUG - setting property text
+2024-12-03 23:46:24,002 - DEBUG - push QLabel priority_circle
+2024-12-03 23:46:24,002 - DEBUG - pop widget QLabel priority_circle
+2024-12-03 23:46:24,002 - DEBUG - new topwidget <__main__.Add_tasks object at 0x0000023223DAC670>
+2024-12-03 23:46:24,003 - DEBUG - setting property geometry
+2024-12-03 23:46:24,003 - DEBUG - push QTimeEdit time_input
+2024-12-03 23:46:24,003 - DEBUG - pop widget QTimeEdit time_input
+2024-12-03 23:46:24,003 - DEBUG - new topwidget <__main__.Add_tasks object at 0x0000023223DAC670>
+2024-12-03 23:46:24,003 - DEBUG - setting property geometry
+2024-12-03 23:46:24,003 - DEBUG - setting property text
+2024-12-03 23:46:24,003 - DEBUG - push QLabel label
+2024-12-03 23:46:24,003 - DEBUG - pop widget QLabel label
+2024-12-03 23:46:24,003 - DEBUG - new topwidget <__main__.Add_tasks object at 0x0000023223DAC670>
+2024-12-03 23:46:24,003 - DEBUG - setting property geometry
+2024-12-03 23:46:24,003 - DEBUG - push QComboBox completed_input
+2024-12-03 23:46:24,003 - DEBUG - pop widget QComboBox completed_input
+2024-12-03 23:46:24,004 - DEBUG - new topwidget <__main__.Add_tasks object at 0x0000023223DAC670>
+2024-12-03 23:46:24,004 - DEBUG - setting property geometry
+2024-12-03 23:46:24,004 - DEBUG - push QComboBox prir
+2024-12-03 23:46:24,004 - DEBUG - pop widget QComboBox prir
+2024-12-03 23:46:24,004 - DEBUG - new topwidget <__main__.Add_tasks object at 0x0000023223DAC670>
+2024-12-03 23:46:24,004 - DEBUG - pop widget Add_tasks Form
+2024-12-03 23:46:24,004 - DEBUG - new topwidget None
+2024-12-03 23:46:45,876 - DEBUG - toplevel widget is TasksWindow
+2024-12-03 23:46:45,876 - DEBUG - setting property geometry
+2024-12-03 23:46:45,876 - DEBUG - setting property windowTitle
+2024-12-03 23:46:45,876 - DEBUG - push TasksWindow Form
+2024-12-03 23:46:45,876 - DEBUG - setting property geometry
+2024-12-03 23:46:45,876 - DEBUG - setting property text
+2024-12-03 23:46:45,876 - DEBUG - push QPushButton add_task
+2024-12-03 23:46:45,877 - DEBUG - pop widget QPushButton add_task
+2024-12-03 23:46:45,877 - DEBUG - new topwidget <__main__.TasksWindow object at 0x0000023223DACAF0>
+2024-12-03 23:46:45,877 - DEBUG - setting property geometry
+2024-12-03 23:46:45,877 - DEBUG - setting property text
+2024-12-03 23:46:45,877 - DEBUG - push QPushButton complete_tasks_button
+2024-12-03 23:46:45,877 - DEBUG - pop widget QPushButton complete_tasks_button
+2024-12-03 23:46:45,877 - DEBUG - new topwidget <__main__.TasksWindow object at 0x0000023223DACAF0>
+2024-12-03 23:46:45,877 - DEBUG - setting property geometry
+2024-12-03 23:46:45,877 - DEBUG - setting property text
+2024-12-03 23:46:45,877 - DEBUG - push QPushButton done_task
+2024-12-03 23:46:45,877 - DEBUG - pop widget QPushButton done_task
+2024-12-03 23:46:45,877 - DEBUG - new topwidget <__main__.TasksWindow object at 0x0000023223DACAF0>
+2024-12-03 23:46:45,877 - DEBUG - setting property geometry
+2024-12-03 23:46:45,877 - DEBUG - setting property text
+2024-12-03 23:46:45,877 - DEBUG - push QPushButton delete_task
+2024-12-03 23:46:45,877 - DEBUG - pop widget QPushButton delete_task
+2024-12-03 23:46:45,878 - DEBUG - new topwidget <__main__.TasksWindow object at 0x0000023223DACAF0>
+2024-12-03 23:46:45,878 - DEBUG - setting property geometry
+2024-12-03 23:46:45,878 - DEBUG - push QListWidget taskListWidget
+2024-12-03 23:46:45,878 - DEBUG - pop widget QListWidget taskListWidget
+2024-12-03 23:46:45,878 - DEBUG - new topwidget <__main__.TasksWindow object at 0x0000023223DACAF0>
+2024-12-03 23:46:45,878 - DEBUG - setting property geometry
+2024-12-03 23:46:45,878 - DEBUG - setting property text
+2024-12-03 23:46:45,878 - DEBUG - push QPushButton redact_tasks
+2024-12-03 23:46:45,878 - DEBUG - pop widget QPushButton redact_tasks
+2024-12-03 23:46:45,878 - DEBUG - new topwidget <__main__.TasksWindow object at 0x0000023223DACAF0>
+2024-12-03 23:46:45,878 - DEBUG - pop widget TasksWindow Form
+2024-12-03 23:46:45,878 - DEBUG - new topwidget None
+2024-12-03 23:46:49,298 - DEBUG - toplevel widget is TasksWindow
+2024-12-03 23:46:49,298 - DEBUG - setting property geometry
+2024-12-03 23:46:49,298 - DEBUG - setting property windowTitle
+2024-12-03 23:46:49,298 - DEBUG - push TasksWindow Form
+2024-12-03 23:46:49,299 - DEBUG - setting property geometry
+2024-12-03 23:46:49,299 - DEBUG - setting property text
+2024-12-03 23:46:49,299 - DEBUG - push QPushButton add_task
+2024-12-03 23:46:49,299 - DEBUG - pop widget QPushButton add_task
+2024-12-03 23:46:49,299 - DEBUG - new topwidget <__main__.TasksWindow object at 0x0000023223DAD510>
+2024-12-03 23:46:49,299 - DEBUG - setting property geometry
+2024-12-03 23:46:49,299 - DEBUG - setting property text
+2024-12-03 23:46:49,299 - DEBUG - push QPushButton complete_tasks_button
+2024-12-03 23:46:49,299 - DEBUG - pop widget QPushButton complete_tasks_button
+2024-12-03 23:46:49,299 - DEBUG - new topwidget <__main__.TasksWindow object at 0x0000023223DAD510>
+2024-12-03 23:46:49,299 - DEBUG - setting property geometry
+2024-12-03 23:46:49,299 - DEBUG - setting property text
+2024-12-03 23:46:49,299 - DEBUG - push QPushButton done_task
+2024-12-03 23:46:49,299 - DEBUG - pop widget QPushButton done_task
+2024-12-03 23:46:49,299 - DEBUG - new topwidget <__main__.TasksWindow object at 0x0000023223DAD510>
+2024-12-03 23:46:49,299 - DEBUG - setting property geometry
+2024-12-03 23:46:49,300 - DEBUG - setting property text
+2024-12-03 23:46:49,300 - DEBUG - push QPushButton delete_task
+2024-12-03 23:46:49,300 - DEBUG - pop widget QPushButton delete_task
+2024-12-03 23:46:49,300 - DEBUG - new topwidget <__main__.TasksWindow object at 0x0000023223DAD510>
+2024-12-03 23:46:49,300 - DEBUG - setting property geometry
+2024-12-03 23:46:49,300 - DEBUG - push QListWidget taskListWidget
+2024-12-03 23:46:49,300 - DEBUG - pop widget QListWidget taskListWidget
+2024-12-03 23:46:49,300 - DEBUG - new topwidget <__main__.TasksWindow object at 0x0000023223DAD510>
+2024-12-03 23:46:49,300 - DEBUG - setting property geometry
+2024-12-03 23:46:49,300 - DEBUG - setting property text
+2024-12-03 23:46:49,300 - DEBUG - push QPushButton redact_tasks
+2024-12-03 23:46:49,300 - DEBUG - pop widget QPushButton redact_tasks
+2024-12-03 23:46:49,300 - DEBUG - new topwidget <__main__.TasksWindow object at 0x0000023223DAD510>
+2024-12-03 23:46:49,300 - DEBUG - pop widget TasksWindow Form
+2024-12-03 23:46:49,300 - DEBUG - new topwidget None
